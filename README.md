@@ -20,3 +20,8 @@
   <img align="center" alt="Django" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg">
   <img align="center" alt="AWS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
 </div>
+  
+<div align="center"><br>
+  <p align="center"> Thank you and come again!👋 </p>  
+  <p> <img align="center" src="https://profile-counter.glitch.me/kazluBR/count.svg" /></p>
+</div>
