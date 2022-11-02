@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working with cloud computing using AWS
 - 🌱 I’m currently learning several AWS services
-- ⚡ Fun fact: I developed a web game [Deep Blue](https://www.deepbluegame.com/) for those who love nonogram puzzles
+- ⚡ Fun fact: I developed a web game [Deep Blue](https://dynamicpix.pythonanywhere.com/) for those who love nonogram puzzles
 
 <div>
   <a href="https://github.com/kazluBR">
