@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning several AWS services
 - ⚡ Fun fact: I developed a web game [Deep Blue](https://dynamicpix.pythonanywhere.com/) for those who love nonogram puzzles
 
+In addition to contributing to this profile, I also maintain another GitHub account: [lucasrollemberg](https://github.com/lucasrollemberg)
+
 <div>
   <a href="https://github.com/kazluBR">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kazluBR&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=stars,issues,contribs"/>
